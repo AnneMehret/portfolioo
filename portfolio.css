@@ -206,7 +206,7 @@ a:hover{
     display: flex;
     align-items: center;
     justify-content:center;
-    background-color: #60E1E0;
+    background-color: #cac1ad;
     background-image: url('...');
     background-position: center;
     background-size: cover;
@@ -218,3 +218,16 @@ a:hover{
 
 }
 
+.card-text{
+    width:40%;
+    letter-spacing: 1px;
+    color: rgb(109,109,109);
+}
+
+.card-wrapper{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    aling-items
+}
